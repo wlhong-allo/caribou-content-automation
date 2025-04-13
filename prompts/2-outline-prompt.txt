@@ -1,0 +1,76 @@
+You are an experienced travel blogger specialize in family travel, i need your help to write a hotel recommendation blog post outline documents for instructing the writer to write the content and find photos,
+please read the following structure and requirements carefully: 
+
+=========== Start of Structure and Requirements ====================
+
+# Article Structure
+1. Lead in paragraph (an appealing and short (~100 words) intro paragraph aim to attract the target audience to read on)
+2. Each hotel one short paragraph describing the attractions followed by photos albums of not less then 5 pictures per hotel  
+3. Summarizing paragraph which lead to another recommended topic
+
+# Hotel Picks
+- [Bisma Eight Ubud](https://www.agoda.com/en-gb/bisma-eight-ubud/hotel/bali-id.html)
+- [COMO Shambhala Estate](https://www.agoda.com/en-gb/como-shambhala-estate/hotel/bali-id.html)
+- [Puri Sebali Resort Ubud](https://www.agoda.com/en-gb/puri-sebali-resort-ubud/hotel/bali-id.html?)
+- [Komaneka at Keramas Beach](https://www.trip.com/hotels/detail/?cityId=723&hotelId=8497398)
+- [Alaya Resort Ubud](https://www.trip.com/hotels/detail/?cityId=723&hotelId=687306)
+- [Amankila](https://www.trip.com/hotels/detail/?cityId=723&hotelId=1969186)
+- [Moonlight Villa](https://www.booking.com/hotel/id/moonlight-villa-by-evdekimi.en-gb.html)
+- [Pondok Naya](https://www.booking.com/hotel/id/pondok-naya.en-gb.html)
+- [Madara Villa Ubud](https://www.booking.com/hotel/id/madara-villa-ubud.en-gb.html)
+
+# SEO-Friendly Titles
+1. "Top 10 Family-Friendly Hotels in Ubud, Bali: Luxury & Budget Stays for Aussie Families (2025)"
+2. "Best Ubud Resorts for Families: Australian-Approved Hotels with Pools, Culture & Kids' Activities"
+3. "Ubud Family Travel Guide 2025: Where to Stay, Play & Relax with Kids in Bali's Cultural Heart"
+
+# Keyword Cluster
+- Best family hotels Ubud Bali
+- Ubud luxury resorts for families
+- Family-friendly Ubud accommodation
+- Top Ubud hotels Australian families
+- Ubud resorts with kids club
+- Ubud holiday with kids
+- Child-friendly hotels Ubud
+- Ubud villas with private pool
+- Best areas to stay in Ubud with family
+- Ubud boutique hotels for families
+- Affordable Ubud family resorts
+- Ubud cultural experiences for kids
+- Ubud hotels near Monkey Forest
+- Ubud all-inclusive family resorts
+- Ubud eco-friendly family stays
+- Ubud villas near rice fields
+- Ubud resorts with babysitting
+- Best Ubud pools for kids
+- Ubud family suites
+- Ubud holiday packages Australia
+
+# Q&A for Content
+
+## What are the best areas to stay in Ubud for families?
+Ubud's Sanggingan, Peliatan, and Kedewatan areas are ideal for families, offering proximity to attractions like the Monkey Forest and Tegalalang Rice Terraces. Resorts like Bisma Eight and Visesa Ubud Resort provide serene settings with easy access to cultural sites, pools, and family suites.
+
+## Which Ubud hotels offer kid-friendly amenities?
+Hotels like Alaya Resort Ubud and Maya Ubud Resort & Spa feature child-friendly pools, babysitting services, and connecting rooms. Komaneka at Bisma provides complimentary bath salts and cookies, while Desa Visesa Ubud offers bike rentals and cave massages.
+
+## Are there budget-friendly Ubud hotels for families?
+Suparsa's Homestay and Sri Ratih Cottages offer affordable stays with pools, Balinese hospitality, and breakfast. For mid-range options, Swahita and Adiwana Bisma combine value with luxury touches like spas and jungle views.
+
+## What Ubud resorts are close to family attractions?
+Sarin Ubud Suites is steps from the Monkey Forest, while Padma Resort Ubud and The Kayon Resort provide easy access to rice terraces and rafting on the Ayung River. Bisma Eight is centrally located near Ubud Palace and markets.
+
+## Which Ubud hotels cater to luxury-seeking families?
+Four Seasons Sayan, COMO Shambhala Estate, and The Royal Pita Maha offer villas with private pools, butler service, and curated cultural activities. Kaamala Resort blends luxury with immersive experiences like Balinese cooking classes.
+
+=========== End of Structure and Requirements ====================
+
+Now please go ahead and write the documents, you need to cover exactly the below section so that its easy for the writer to follow:
+
+Article Full Title:
+Meta title for open graph and meta description tag:
+On-image title for makeing thumbnail picture: 
+Outline of every paragraphs in bullet points:
+
+
+

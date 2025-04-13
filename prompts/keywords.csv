@@ -1,0 +1,31 @@
+keyword,KD,SV,GSV,TP,GTP,CPC,CPS,parent_topic
+jakarta,59,16K,504K,3.6K,36K,0.15,0.37,jakarta
+ubud,47,12K,143K,3.2K,13K,0.30,0.38,ubud
+denpasar,14,6.6K,80K,1.8K,6.3K,0.35,0.24,denpasar
+yogyakarta,24,3.1K,113K,800,7.4K,0.15,0.36,yogyakarta
+surabaya,18,2.6K,119K,150,5.8K,0.50,0.36,surabaya
+bandung,32,2.3K,144K,400,8.0K,0.20,0.30,bandung
+banda aceh,7,1.9K,20K,250,900,N/A,0.40,banda aceh
+batam,0,1.8K,98K,450,10K,0.15,0.48,batam
+kuta,24,1.7K,37K,200,200,0.60,0.23,kuta
+makassar,26,1.6K,65K,250,1.9K,3.00,0.35,makassar
+medan,9,1.5K,86K,300,3.4K,0.20,0.56,medan
+malang,39,900,118K,300,8.0K,0.15,0.30,malang
+padang,34,900,45K,100,1.9K,2.00,0.26,padang
+semarang,25,800,71K,80,1.1K,0.30,0.36,semarang
+manado,16,700,43K,100,1.9K,3.00,0.36,manado
+sorong,5,500,16K,50,600,0.06,0.26,sorong
+banyuwangi,13,400,36K,70,700,0.04,0.52,banyuwangi
+bogor,12,400,54K,80,800,0.35,0.36,bogor
+pekanbaru,42,250,36K,30,4.5K,N/A,0.31,pekanbaru
+tangerang,3,200,38K,30,300,N/A,0.26,tangerang
+singkawang,0,200,21K,30,500,N/A,0.33,singkawang
+gianyar,2,200,6.8K,20,40,1.40,0.20,gianyar bali
+kuta selatan,0,200,3.2K,60,100,0.70,0.50,kuta selatan
+cirebon,3,150,32K,20,300,0.25,0.26,cirebon
+depok,0,100,31K,50,100,N/A,N/A,depok
+mengwi,0,80,6.1K,40,80,N/A,N/A,mengwi
+bukittinggi,5,70,13K,10,1.0K,N/A,0.28,bukit tinggi indonesia
+kediri,2,50,28K,10,90,N/A,N/A,kediri
+lembang,0,20,25K,0,40,N/A,N/A,lembang
+north kuta,0,10,70,70,100,N/A,0.57,kecamatan kuta utara 

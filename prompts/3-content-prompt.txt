@@ -1,0 +1,168 @@
+You are a popular blogger from Australia and understand the travel needs of your audience, you have tasks with below brief to write an articles for a travel blog, Please read the following outline carefully and output the required content as instructed below:
+
+================= Start of content outline ===============
+# Content Structure
+
+## Article Title
+Top 9 Family-Friendly Hotels in Ubud, Bali: Luxury & Budget Stays for Aussie Families (2025)
+
+## SEO Metadata
+META_TITLE: Top 9 Family-Friendly Hotels in Ubud, Bali | Luxury & Budget Stays for Families
+META_DESCRIPTION: Discover the best family-friendly hotels in Ubud, Bali for 2025! From luxury resorts to budget stays, explore accommodations with pools, kids' activities, and cultural experiences perfect for Australian families.
+
+## Thumbnail Title
+THUMBNAIL_TEXT: Best Ubud Hotels for Families: Top Picks for 2025
+
+## Target Keywords
+PRIMARY_KEYWORDS:
+- best family hotels ubud bali
+- ubud luxury resorts families 
+- family friendly ubud accommodation
+- top ubud hotels australian families
+- ubud resorts kids club
+
+SECONDARY_KEYWORDS:
+- ubud holiday with kids
+- child friendly hotels ubud
+- ubud villas private pool
+- best areas stay ubud family
+- ubud boutique hotels families
+- affordable ubud family resorts
+- ubud cultural experiences kids
+- ubud hotels near monkey forest
+- ubud all inclusive family resorts
+- ubud eco friendly family stays
+- ubud villas near rice fields
+- ubud resorts with babysitting
+- best ubud pools kids
+- ubud family suites
+- ubud holiday packages australia
+
+## FAQ Content
+Q1: What are the best areas to stay in Ubud for families?
+A1: Ubud's Sanggingan, Peliatan, and Kedewatan areas are ideal for families, offering proximity to attractions like the Monkey Forest and Tegalalang Rice Terraces. Resorts like Bisma Eight and Visesa Ubud Resort provide serene settings with easy access to cultural sites, pools, and family suites.
+
+Q2: Which Ubud hotels offer kid-friendly amenities?
+A2: Hotels like Alaya Resort Ubud and Maya Ubud Resort & Spa feature child-friendly pools, babysitting services, and connecting rooms. Komaneka at Bisma provides complimentary bath salts and cookies, while Desa Visesa Ubud offers bike rentals and cave massages.
+
+Q3: Are there budget-friendly Ubud hotels for families?
+A3: Suparsa's Homestay and Sri Ratih Cottages offer affordable stays with pools, Balinese hospitality, and breakfast. For mid-range options, Swahita and Adiwana Bisma combine value with luxury touches like spas and jungle views.
+
+Q4: What Ubud resorts are close to family attractions?
+A4: Sarin Ubud Suites is steps from the Monkey Forest, while Padma Resort Ubud and The Kayon Resort provide easy access to rice terraces and rafting on the Ayung River. Bisma Eight is centrally located near Ubud Palace and markets.
+
+Q5: Which Ubud hotels cater to luxury-seeking families?
+A5: Four Seasons Sayan, COMO Shambhala Estate, and The Royal Pita Maha offer villas with private pools, butler service, and curated cultural activities. Kaamala Resort blends luxury with immersive experiences like Balinese cooking classes.
+
+## Article Structure
+
+### Introduction
+LEAD_PARAGRAPH:
+- Introduce Ubud as Bali's cultural heart
+- Highlight accommodation variety
+- Target Australian families for 2025
+
+### Hotel Reviews
+HOTEL_1:
+name: Bisma Eight Ubud
+url: https://www.agoda.com/en-gb/bisma-eight-ubud/hotel/bali-id.html
+photos_required:
+  - pool
+  - suites
+  - dining
+  - jungle_views
+  - common_spaces
+
+HOTEL_2:
+name: COMO Shambhala Estate
+url: https://www.agoda.com/en-gb/como-shambhala-estate/hotel/bali-id.html
+photos_required:
+  - spa
+  - villas
+  - pools
+  - gardens
+  - dining
+
+HOTEL_3:
+name: Puri Sebali Resort Ubud
+url: https://www.agoda.com/en-gb/puri-sebali-resort-ubud/hotel/bali-id.html
+photos_required:
+  - terraces
+  - pools
+  - suites
+  - restaurant
+  - activities
+
+HOTEL_4:
+name: Komaneka at Keramas Beach
+url: https://www.trip.com/hotels/detail/?cityId=723&hotelId=8497398
+photos_required:
+  - beach
+  - pools
+  - suites
+  - kids_areas
+  - dining
+
+HOTEL_5:
+name: Alaya Resort Ubud
+url: https://www.trip.com/hotels/detail/?cityId=723&hotelId=687306
+photos_required:
+  - pools
+  - architecture
+  - suites
+  - gardens
+  - attractions
+
+HOTEL_6:
+name: Amankila
+url: https://www.trip.com/hotels/detail/?cityId=723&hotelId=1969186
+photos_required:
+  - views
+  - pools
+  - villas
+  - dining
+  - activities
+
+HOTEL_7:
+name: Moonlight Villa
+url: https://www.booking.com/hotel/id/moonlight-villa-by-evdekimi.en-gb.html
+photos_required:
+  - interiors
+  - pools
+  - views
+  - dining
+  - lounges
+
+HOTEL_8:
+name: Pondok Naya
+url: https://www.booking.com/hotel/id/pondok-naya.en-gb.html
+photos_required:
+  - gardens
+  - interiors
+  - pools
+  - dining
+  - attractions
+
+HOTEL_9:
+name: Madara Villa Ubud
+url: https://www.booking.com/hotel/id/madara-villa-ubud.en-gb.html
+photos_required:
+  - exteriors
+  - interiors
+  - pools
+  - gardens
+  - lounges
+
+### Conclusion
+SUMMARY_POINTS:
+- Recap accommodation variety
+- Suggest related topics
+  - Family activities in Ubud
+  - Family restaurants in Ubud
+
+================= End of content outline ===============
+
+Please output excatly according to below format:
+
+- the complete article in about 1000-1500 words, with <H1> title and <H2> Titles
+- provide link or description in img tag format for all hotels photo needed, use <img src="{link here if found}" alt="{description here, make it short}" />

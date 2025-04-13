@@ -1,0 +1,37 @@
+  {
+    "name": "Bisma Eight Ubud",
+    "images_captions": [
+        "Bisma Eight infinity pool overlooking jungle",
+        "Family suites at Bisma Eight",
+        "Dining at Bisma Eight",
+        "Jungle views from Bisma Eight",
+        "Common spaces at Bisma Eight"
+    ],
+    "urls": [
+        {
+            "url": "https://www.agoda.com/bisma-eight-ubud/hotel/bali-id.html",
+            "url_photo_gallery": "https://www.agoda.com/bisma-eight-ubud/hotel/bali-id.html#gallery",
+            "ota_symbol": "AG"
+        },
+        {
+            "url": "https://www.expedia.com/Ubud-Hotels-Bisma-Eight-Ubud.h9439677.Hotel-Information",
+            "url_photo_gallery": "https://www.expedia.com/Ubud-Hotels-Bisma-Eight-Ubud.h9439677.Hotel-Information?pwaThumbnailDialog=thumbnail-gallery&pwaDialogNested=media-gallery",
+            "ota_symbol": "EX"
+        },
+        {
+            "url": "https://www.trip.com/hotels/ubud-hotel-detail-2192352/bisma-eight-ubud/",
+            "url_photo_gallery": "https://www.trip.com/hotels/ubud-hotel-detail-2192352/bisma-eight-ubud/#photo-gallery",
+            "ota_symbol": "TP"
+        },
+        {
+            "url": "https://www.hotels.com/ho480872/bisma-eight-ubud-ubud-indonesia/",
+            "url_photo_gallery": "https://www.hotels.com/ho480872/bisma-eight-ubud-ubud-indonesia/#photo-gallery",
+            "ota_symbol": "HC"
+        },
+        {
+            "url": "https://www.booking.com/hotel/id/bisma-eight.html",
+            "url_photo_gallery": "https://www.booking.com/hotel/id/bisma-eight.html#photo-gallery",
+            "ota_symbol": "BC"
+        }
+    ]
+}

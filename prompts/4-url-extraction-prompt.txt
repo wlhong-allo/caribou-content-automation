@@ -1,0 +1,31 @@
+
+Hotel Name: __HOTEL_NAME__
+Country: Australia
+Language: English
+OTAs: Agoda(agoda) / Expedia(expedia) / Trip.com(trip_com) / Hotels.com(hotels_com) / Booking.com(booking_com)
+**Remember Trip.com is NOT tripadvisor, dont mix up 
+
+
+Output JSON formatted as below example:
+{
+    "agoda": {
+        "url": "https://www.agoda.com/bisma-eight-ubud/hotel/bali-id.html"
+    },
+    "expedia": {
+        "url": "https://www.expedia.com/Ubud-Hotels-Bisma-Eight-Ubud.h9439677.Hotel-Information"
+    },
+    "trip_com": {
+        "url": "https://www.tripadvisor.com/Hotel_Review-g297701-d7376123-Reviews-Bisma_Eight-Ubud_Gianyar_Regency_Bali.html"
+    },
+    "hotels_com": {
+        "url": "https://au.hotels.com/en/ho480872/bisma-eight-ubud-ubud-indonesia"
+    },
+    "booking_com": {
+        "url": "https://www.booking.com/hotel/id/bisma-eight.html"
+    }
+}
+
+remove all uneccessary paramters except for those lead to photo gallery page
+if you dont find any valid url for that specific OTA, just leave "no_url" into the fields
+
+Only output JSON format data and nothing else, double check the format to make sure its a valid JSON, dont add anything else
